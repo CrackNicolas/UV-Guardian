@@ -1,5 +1,7 @@
 # 🛡️ UV-Guardian (uv-safe)
 
+![UV-Guardian Demo](./assets/demo.png)
+
 **A simple security wrapper for `uv` to help prevent installing malicious packages.**
 Built after realizing how easy it is to accidentally install compromised dependencies.
 
